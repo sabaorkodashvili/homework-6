@@ -104,6 +104,7 @@ body {
 .footer-nav1 h1 {
   font-size: 20px;
   color: #1e1e1e;
+  font-weight: bolder;
 }
 .footer-nav1 ul {
   color: #535353;
@@ -119,6 +120,7 @@ body {
 .footer-nav2 h1 {
   font-size: 20px;
   color: #1e1e1e;
+  font-weight: bolder;
 }
 .footer-nav2 ul {
   color: #535353;
@@ -133,6 +135,7 @@ body {
 }
 .footer-nav3 h1 {
   font-size: 20px;
+  font-weight: bolder;
   color: #1e1e1e;
 }
 .footer-nav3 button {
